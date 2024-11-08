@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Bamimore2000
-- 👀 I’m interested in making websites super-beautiful and super-functional
-- 🌱 I’m currently learning Vanilla Javascript
-- 💞️ I’m looking to collaborate on Website Design
-- 📫 Reach me via emmanuelar35@gmail.com
 
-<!---
-Bamimore2000/Bamimore2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! 👋 I’m Bamimore Sogo
+
+I’m a full-stack web developer with a focus on building efficient, scalable applications. I specialize in React and Next.js for creating engaging frontend experiences, and I’m skilled in MongoDB, PostgreSQL, NestJS, and Next.js API routes for robust backend solutions.
+
+🛠️ Tech Stack
+
+Frontend
+	•	React & Next.js: Building dynamic, server-rendered and static applications
+	•	Tailwind CSS: Styling with a responsive, utility-first approach
+
+Backend
+	•	Next.js API Routes: Lightweight backend services within Next.js projects
+	•	NestJS: For building scalable, structured, and highly testable APIs
+
+Databases
+	•	MongoDB: Flexible NoSQL database for document storage
+	•	PostgreSQL: Powerful SQL database for structured data
+
+🌟 What I Do
+
+	•	Build full-stack applications from scratch, with a focus on both performance and scalability
+	•	Implement user authentication and role-based access control for secure applications
+	•	Create RESTful APIs and GraphQL APIs that handle complex data and queries efficiently
+	•	Design responsive UIs that offer smooth, optimized user experiences across devices
+
